@@ -14,4 +14,4 @@ I stream the development of this app on [Twitch](https://www.twitch.tv/b1ueh4wk)
 https://www.figma.com/file/TjRgd82eDkaXoYP8esXTqU/BlogTime?node-id=0%3A1
 
 ## Here is the GitHub repo:
-# blog-time
+https://github.com/MichaelJHTaggart/blog-time
