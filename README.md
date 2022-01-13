@@ -4,7 +4,8 @@ This is an app to help me understand the following principles better:
 
 1. Typescript
 2. Firebase
-3. Tailwind CSS?
+3. ReduxToolkit
+4. Tailwind CSS?
 
 ## Learn with me! 
 
